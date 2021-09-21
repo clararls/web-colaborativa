@@ -10,3 +10,8 @@ body{
     height: 500px;
 }
 
+#secondHeading{
+    width: 200px;
+    height:200px;
+    display: block;
+}
