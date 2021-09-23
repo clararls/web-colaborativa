@@ -9,7 +9,6 @@ body{
     background-position: center;
     height: 500px;
 }
-
 #secondHeading{
     width: 300px;
     height:300px;
@@ -19,3 +18,10 @@ body{
 label{
     display:inline
 }
+
+img{
+    width: 200px;
+    height:200px;
+    display: block;
+}
+
